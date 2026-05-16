@@ -1,0 +1,2 @@
+output.txt
+hii there i am shyamal ka,  i want to write here through using append.
