@@ -3,7 +3,7 @@ import re # re mean regrex
 message = "The currect Python version is 3.13 other previous version is 3.12, 3.11, 3.10."
 pat = r"[A-z]{3}"
 match_obj = re.search(pat, message)
-print(match_obj)
+print(match_obj) 
 
 #What happens here ? why out put is The but not currect ? 
 
