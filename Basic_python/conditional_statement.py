@@ -12,15 +12,18 @@ else:
     print("You are not pass in this exame: ")
 """
 
-marks = float(input("Enter your marks: "))
+marks = float(input("Enter your exame subjects marks: "))
 
 if marks >= 60:
-    print("Your grade is A")
+    print("Your grade is A") 
 
 elif 80 <= marks < 90:
-    print("Your grade is B")
+    print("Your grade is B") 
+    
 elif 70 <= marks < 80:
     print("Your grade is C")
+    
 else:
     print("You faild this exame")
-    
+
+#It's actually a small project creat using numpy.
