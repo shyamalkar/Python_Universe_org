@@ -2,7 +2,7 @@
 
 "In this repository what is will do is , i cover all of these python function and modules topic descuss below."
 
-Topics liek::-
+Topics like :-
 
 Function & Modules - 
 
