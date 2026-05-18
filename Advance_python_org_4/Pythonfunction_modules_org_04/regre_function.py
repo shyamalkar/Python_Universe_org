@@ -5,14 +5,14 @@ import re
 week_list = "Sunday, Monday, Tuesday, Monday, Sunday" #Here is the list we are create week list 
 change = "Sunday" # I write (change) variabe for what i want to change ? i write sunday means sunday was replaced by replacement variable order --> Friday
 replacement = "Friday"
-
+ 
 result = re.sub(change, replacement, week_list)
 print(result)
 
 """Another Example:- """
 Name_list = "Shyamal, Milan, Supra, Bmw, kc, kc, Budha, "
 change_1 = "kc"
-replacement_1 = "Subhadip"
+replacement_1 = "Subhadip Dhali"
 
 result = re.sub( change_1, replacement_1, Name_list)
 
