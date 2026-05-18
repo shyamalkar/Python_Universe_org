@@ -10,7 +10,7 @@ groceries = {
 }  
 
 print(groceries["milk: 10"])
- 
+  
 groceries = {"milk":60, # Dictionary never work with strate line .
              "Biscuits":10,
              "Rice":100,
