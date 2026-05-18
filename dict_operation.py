@@ -6,7 +6,7 @@ print(dict_op)
 
 #Keys of a dictionary can only be mutable datatypes!
 student_1 = {"id":1001, "name":"john", "marks":[19.09, 90.10, 20.23, 79.98]} 
-print("Student", student_1['marks'][0])  
+print("Student", student_1['marks'][0])   
   
 print("Student keys:", student_1.keys()) # Key usage for how many value in this variable ?
   
