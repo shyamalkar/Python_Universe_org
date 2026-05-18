@@ -21,7 +21,7 @@ Meaning of each variable
 """
 #Input features
 
-principal = float(input("Enter principle amount:")) # Float for decimal number
+principal = float(input("Enter principle amount:")) # Float for decimal number 
 rate = float(input("Enter interest rate: "))
 time = float(input("Enter time: "))
 
