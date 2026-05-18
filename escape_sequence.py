@@ -15,7 +15,7 @@ print("John\t20")
 
 
 #\\ 
-print("new \\ old") # This is usage for especially in yes or no, positive and negative etc..
+print("new \\ old") # This is usage for especially in yes or no, positive and negative etc.. 
 
 
 # \'
