@@ -2,7 +2,7 @@
 A die has 6 faces with numbers 1 to 6 writter on them 
 The program should randomly prints a number between 1 to 6
 """
-
+ 
 import random 
 
 print("welcome to the game of rolling dice.")
