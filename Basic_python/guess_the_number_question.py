@@ -9,7 +9,7 @@ if the user never guesses the number, ask them 10 times and then the game!!
 
 print("Create a simple number guessing game.\n We have a number that needs to be guessed. You have 10 chances.")
 print("Your secret number is between 1 to 50.\n You have only 10 attempt left's")
-
+ 
 count = 0
 max_try = 10
 secret_number = 63
