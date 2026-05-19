@@ -9,7 +9,7 @@ Study_hours = 3
 #John is 20 years old. He studies Python 3 hours a day. 
 
 print(name, "is", age, "years old. He studies", language,"every day", Study_hours, "hours a day, and he is a professional devloper in a year.")
-
+ 
 
 sub1 = 78
 sub2 = 87
