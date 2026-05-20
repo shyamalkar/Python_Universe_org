@@ -9,7 +9,7 @@ if Input_1 >= 95:
 if Input_1 >= -8: 
     print("You enter a wrong number:")
 else:
-    print("You are not pass in this exame: ")
+    print("You are not pass in this exame: ") 
 """
 
 marks = float(input("Enter your exame subjects marks: "))
