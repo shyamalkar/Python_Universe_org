@@ -8,7 +8,7 @@ Normal if-else
 age = 20 
   
 if age >= 18: 
-    msg = "Adult"
+    msg = "Adult" 
 else:
     msg = "Minor"
 """
