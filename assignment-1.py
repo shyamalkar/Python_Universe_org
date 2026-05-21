@@ -4,7 +4,7 @@ Problem Statement: Write a Python program that does the following:
 2.  Performs the basic mathematical operations on these two numbers:
  Addition
  Subtraction 
- Multiplication 
+ Multiplication  
  Division
 3.  Displays the results of each operation on the screen. 
  Expected Output: 
