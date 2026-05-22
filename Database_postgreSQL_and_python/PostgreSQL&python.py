@@ -4,7 +4,7 @@
 
 Where use PostgreSQL ?
                 Web and Mobile application . 
-                Data Warehousing and analytics.
+                Data Warehousing and analytics. 
                 Store huge data base ML/AI .
                 Geographic information system . 
 
