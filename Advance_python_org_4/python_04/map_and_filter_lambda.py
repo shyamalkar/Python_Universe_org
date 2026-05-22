@@ -1,5 +1,5 @@
 #What map() do ?
-#In list take  every element and change new
+#In list take  every element and change new that is map()
 
 #every number double without lambda
 
@@ -16,6 +16,8 @@ nums = [10, 20 ,30, 40, 50]
 nums = list(map(lambda x: x*2, nums))
 
 print(result)
+
+#Output
 
 #example 2 , all number square
 number = [1, 2, 3, 4, 5]
