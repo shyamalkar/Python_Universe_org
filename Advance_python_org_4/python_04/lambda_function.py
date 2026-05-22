@@ -9,7 +9,7 @@ print(res)
 #syntax 
 #lambda argument : expression
 """
-fun = lambda a, b, c, d, e: a + b + c + d+ e
+fun = lambda a, b, c, d, e: a + b + c + d+ e 
 res = fun(2, 2, 3 ,4, 5)
 print(res)"""
 #How to work with 1 number
