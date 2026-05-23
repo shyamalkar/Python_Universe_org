@@ -10,7 +10,7 @@ Amount = P * (1 + R/100) ** T
 CL = Amount - p 
  
  
-Meaning of each variable
+Meaning of each variable 
 
  P (principal) -> initial money
  R (rate) = interest rate 
