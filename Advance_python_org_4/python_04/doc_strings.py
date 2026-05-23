@@ -7,3 +7,4 @@ def infor():
 help(infor) 
 
 #write it about what is the coding meaning .
+ 
