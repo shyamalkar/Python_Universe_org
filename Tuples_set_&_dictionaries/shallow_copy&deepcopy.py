@@ -14,7 +14,7 @@ b = copy.copy(a) # If you write so many same thing just use copy() function.
 
 b[0][0] = 99
 print(a) 
-print(b) 
+print(b)  
 
 #Deep Copy
 

@@ -17,7 +17,7 @@ students = {'student1': {'roll':101, 'name':'john', 'percent':38.5},
 
 
 print(students)
-print(type(students))
+print(type(students)) 
 
 
 """

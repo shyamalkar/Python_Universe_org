@@ -15,6 +15,6 @@ print(2 + 3 * 4)
 print(2 ** 3 ** 2) # According to PEMDAS , calculation always right to left, so calculation is = 2 ** (3 ** 2)= 2 ** 9 = 512 .
 
 #In python operation BODMAS not help in this situation becausebadmas have not any special function like and , or 
-
+ 
 
 print(True or False and False) # Output is = True Because, False and False = False True or False = True.

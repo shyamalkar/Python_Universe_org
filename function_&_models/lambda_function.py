@@ -13,7 +13,7 @@ def add(a):
 res = add(1)
 print(res)
 
-""" 
+"""  
 #syntax 
 #lambda argument : expression
 """

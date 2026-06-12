@@ -9,7 +9,7 @@ try:
 except FileNotFoundError:
     print("File not found") # Everytime check file exsit or not ?
 
-
+ 
 
 #Forgetting Mode problem 
 """

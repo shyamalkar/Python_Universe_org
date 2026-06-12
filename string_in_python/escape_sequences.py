@@ -17,7 +17,7 @@ print(type(name))
 #\n New line 
 
 print("Hello\nWorld")
-
+ 
 # new tab 
 
 print("Python\tJava")

@@ -6,4 +6,4 @@ def add(a, b):
 def calculate(func, x, y):
     return func(x, y)
 
-print(calculate(add, 5, 3)) # here add function send as argument.
+print(calculate(add, 5, 3)) # here add function send as argument. 

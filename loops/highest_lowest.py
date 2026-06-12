@@ -36,4 +36,4 @@ for num in nums:
         lowest = num
 
 print("Highest:", highest)
-print("Lowest:", lowest)
+print("Lowest:", lowest) 

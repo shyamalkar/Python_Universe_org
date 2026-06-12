@@ -17,7 +17,7 @@ We fetch importent document from huge dataset.
 Why RegEx are need for work ?
 Email list
 Phone number list
-Website data
+Website data 
 From data
 Log files
 CSV/Text files

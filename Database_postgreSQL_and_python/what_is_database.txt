@@ -13,7 +13,7 @@ e.g., Your mobile :-
 Data base software name :-
 Oracle
 MongoDB etc...
-
+ 
 Why use Data base ? 
   Data base is mandotory for several of resons and some i discusing now,
   so first one is , store the data , find the data, update the data, delete the data, keep data safe . 

@@ -16,7 +16,7 @@ Which language need for know PostgreSQL ?
 
 Every ROW have a unique ID .
 
-One table connect to another table . 
+One table connect to another table .  
 
 
 

@@ -17,7 +17,7 @@ clean, visualize, and algorithmic library .
                                Stats models
                                  
 
-How many types of format are you use for analyse the data . 
+How many types  of format are you use for analyse the data . 
 
 File format:-
        (csv, .json, .hdf, .xlsx,.....)

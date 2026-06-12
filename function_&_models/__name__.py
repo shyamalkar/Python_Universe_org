@@ -15,7 +15,7 @@ def greet(name): # name is a parameter .
 
 greet("Shyamal") # output Hello Shyamal
 
-# return 
+# return  
 # Return use for return the value outside of the function.
 def add(a, b):
     return a + b

@@ -4,3 +4,4 @@ f = open("example_1.txt", "r+") # r+ read and write and w+ write and read a+ for
 print(f.read()) #Read first
 f.write("\n Updated line")
 f.close()
+ 

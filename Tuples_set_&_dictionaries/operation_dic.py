@@ -14,7 +14,7 @@ print(student["name"])
 
 
 # update value 
-student["age"] = 22
+student["age"] = 22 
 
 print(student)
 

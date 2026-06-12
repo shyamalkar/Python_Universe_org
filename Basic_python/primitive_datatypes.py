@@ -15,7 +15,7 @@ for the sake of learning, certain basic types in Python are also referred to as 
 x = 10
 y = -5
 z = 0
-
+ 
 age = 21           # int
 height = 5.8       # float
 name = "Shyamal"   # str

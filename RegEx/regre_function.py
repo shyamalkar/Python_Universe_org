@@ -16,7 +16,7 @@ replacement_1 = "Subhadip"
 
 result = re.sub( change_1, replacement_1, Name_list)
 
-print(result)
+print(result) 
 
 
 message = """We are learning re ,  Using RE, we can search for a pattern in a given string.

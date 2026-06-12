@@ -13,7 +13,7 @@ print(fruits)
 # Empty tuple
 empty = ()
 
-print(type(empty))
+print(type(empty)) 
 
 # Indexing 
 numbers = (10, 20, 30, 40)

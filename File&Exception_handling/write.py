@@ -7,4 +7,4 @@ f.write("i change the new line, "
 "and here is the best part , "
 "if you can't change the mode you can change the dist ofcourse .")
 
-f.close()
+f.close() 

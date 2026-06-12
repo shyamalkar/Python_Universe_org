@@ -72,3 +72,4 @@ student_details(sid=101, sname='Shyamal',sub1=78.5, sub2=89.0, sub3=90.87)
 student_details(sid=102, sname='Shymal', sub1=73.5, sub2=83.0, sub3=94.87)
 
 #
+ 

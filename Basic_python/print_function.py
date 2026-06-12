@@ -16,4 +16,4 @@ print(name, age)
 
 print("Python", "Java", "C++", sep="-") # sep help to decide what is the symbol or things are present in space.
 
-print(1, 2, 3, sep=" | ")
+print(1, 2, 3, sep=" | ") 

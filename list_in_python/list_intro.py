@@ -18,7 +18,7 @@ marks = [80, 75, 90, 85, 70]
 
 # List are mutable , because list are mutable 
 nums = [1, 2, 3]
-
+ 
 nums[0] = 100
 
 print(nums)

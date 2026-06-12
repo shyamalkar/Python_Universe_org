@@ -12,7 +12,7 @@ print(text.lower())
 
 #title()
 text = "hello world"
-print(text.title())
+print(text.title()) 
 
 # capitalize(). only first text write in capital word.
 text = "python programming"

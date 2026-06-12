@@ -15,7 +15,7 @@ if age >= 18:
 # nested if - one if present another if .
 # ternary operator - if else write in one line . 
 
-# One more example:- 
+# One more example: - 
 balance = 5000
 amount = 2000
 pin_correct = True

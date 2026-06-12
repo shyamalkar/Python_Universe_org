@@ -7,4 +7,4 @@ def test():
 
 test()
 
-# Global variable is nothing but where variable create outside of the function.
+# Global variable is nothing but where variable create outside of the function. 

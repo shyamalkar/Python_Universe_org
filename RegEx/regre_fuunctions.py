@@ -16,7 +16,7 @@ phones = "Shyamal - 1234567890, Milan-9832110003, Dipa-7679816991"
 pat = r"[0-9]+" # Here number tell us how mnay number must be , so i now use (+) plus mean 0-9 1 or more . 
 match_obj = re.findall(pat, phones) # Generally findall usage forfind multiple matching order not only one and search do with only one and search only one.
 print(match_obj)
-
+ 
 #Now we fetch the all phone number, the phone number are at least 7 digits
 pat = r"[0-9]{7, }" # 7 or more
 match_obj = re.findall(pat, phones)

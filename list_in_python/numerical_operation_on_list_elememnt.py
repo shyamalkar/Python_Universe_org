@@ -13,7 +13,7 @@ import math
 
 print(math.prod(numbers))
 
-nums = [4, 1, 5, 2]
+nums = [4, 1, 5, 2] 
 
 print(sorted(nums))
 

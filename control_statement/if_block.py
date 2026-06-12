@@ -13,7 +13,7 @@ if input_1 < minor_age:
 
 
 #Another 
-
+ 
 age = 20
 
 if age >= 18:

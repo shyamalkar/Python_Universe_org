@@ -21,4 +21,4 @@ for value in student.values():
 
 # key and value 
 for key, value in student.items():
-    print(key, ":", value)
+    print(key, ":", value) 

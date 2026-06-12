@@ -15,7 +15,7 @@ print(f"Your number{num_1} and {num_2} division is: {variable_divi}")"""
 num_1 = int(input("Enter a number (1-10): "))
 num_2 = int(input("Enter a number (1-10): "))
 
-try:
+try: 
     result = num_1 / num_2
     print(result)
 except ZeroDivisionError:

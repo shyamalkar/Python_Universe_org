@@ -16,7 +16,7 @@ print(type(x))
 
 # str (string), write and text
 
-name = "Shyamal"
+name = "Shyamal" 
 city = 'Kolkata'
 
 print(type(name))

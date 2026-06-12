@@ -18,7 +18,7 @@ print(age + 5) # Because here add + 5
 # Float input 
 
 price = float(input("Enter price: "))
-print(price * 2)
+print(price * 2) 
 
 a = int(input("Enter your first number"))
 b = int(input("Enter your second number:"))

@@ -7,4 +7,4 @@ syntx of slicing: string [start: end:step]
 - step: integer that specifies the step for the slicing
 
 """
-print(s1[2:7:1])
+print(s1[2:7:1]) 

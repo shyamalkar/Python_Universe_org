@@ -17,7 +17,7 @@ nums = [1, 2, 3]
 nums[0] = 100
 
 print(nums)
-
+ 
 # Duplicate allowed
 
 nums = [1, 1, 2, 2, 3]

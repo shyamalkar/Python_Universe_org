@@ -9,4 +9,4 @@ for i in range(10):
 fs = frozenset([10, 20, 30])
 
 for item in fs:
-    print(item)
+    print(item) 

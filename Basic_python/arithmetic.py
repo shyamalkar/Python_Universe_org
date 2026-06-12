@@ -13,3 +13,4 @@ print(a // b) #floor division means, The integer part of the quotient.
 print( a % b) # modulus (%) quotient, Quotient and remainder ,It help us to measure it is a odd or a even number ?
 print( a ** b) # Exponent use for multiply the oposite number . help of using double star. 
 # Why output is 1000 ? Reson of 10 * 10 * 10 = 1000
+ 

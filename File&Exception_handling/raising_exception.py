@@ -15,4 +15,4 @@ else:
         print("You can vote")
 
     else:
-        print("You can't vote")
+        print("You can't vote") 

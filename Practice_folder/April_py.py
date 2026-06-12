@@ -15,3 +15,4 @@ fruits = ("Mango", "Orage", "Apple")
 print(fruits, type(fruits))
 fruits = list(fruits) 
 print(fruits) 
+ 

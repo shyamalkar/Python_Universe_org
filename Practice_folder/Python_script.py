@@ -17,7 +17,7 @@ Meaning of each variable
  T (time) = number of years
  Amount = final money after interest
  CI = only the interest earned
-"""
+""" 
 #Input features
 
 principal = float(input("Enter principle amount:")) # Float for decimal number

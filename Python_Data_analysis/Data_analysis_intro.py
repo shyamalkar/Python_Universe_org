@@ -16,7 +16,7 @@ longer for tech companies - it's use small shop and global corporation .
 
 How many major steps in Data analysis ?
  
-Collection of Data
+Collection of Data 
 
 processing of Data
      |_ Comparison of Data

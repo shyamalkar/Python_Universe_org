@@ -20,7 +20,7 @@ text = "Python"
 
 print(text[0])
 
-# Negative index
+# Negative index  
 print(text[-1])
 # string slicing 
 text = "Python" 

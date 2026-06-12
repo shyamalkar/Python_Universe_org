@@ -13,7 +13,7 @@ CREATE TABLE students (
     id SERIAL PRIMARY KEY,     -- Auto ID
     name VARCHAR(100),         -- Student name
     age INT,                   -- Age
-    marks INT                  -- Marks
+    marks INT                   -- Marks
 );"""
 
 #Insert the data

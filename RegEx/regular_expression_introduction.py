@@ -17,7 +17,7 @@ pat = r"[a-z]{8}"
 match_obj = re.search(pat, s1)
 print(f"dollar",match_obj)
 
-# group - () + | (or)
+# group - () + | (or) 
 
 email = "abc_123@example.com random words and character. x1y2z3.abc. edu"
 pat = r"(com|edu)"

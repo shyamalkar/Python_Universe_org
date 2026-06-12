@@ -17,7 +17,7 @@ with open("New_file_using_with.txt", 'a') as f:
     f.write("\nThis is a appended line\n")
     f.write("This is a second append line")
 
-
+ 
 #Update file using with r+ read and write 
 
 with open("New_file_using_with.txt", 'r+') as f:

@@ -16,7 +16,7 @@ A.update([7, 8])
 print(A)
 
 # remove , if don't have then showing error
-A.remove(2) 
+A.remove(2)  
 
 #Discard() :- if don't have then not showing error 
 

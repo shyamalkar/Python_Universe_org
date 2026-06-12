@@ -7,4 +7,4 @@ def greet(): # Def is define and greet is function.
     print("Hello")
 
 greet()
-"""
+""" 

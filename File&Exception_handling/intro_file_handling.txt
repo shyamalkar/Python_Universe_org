@@ -13,7 +13,7 @@ then i will teach you  update this and delete this ?
 
 
 | Mode | Meaning           |
-| ---- | ----------------- |
+| ---- | ----------------- | 
 | `r`  | Read              |
 | `w`  | Write (overwrite) |
 | `a`  | Append (add)      |

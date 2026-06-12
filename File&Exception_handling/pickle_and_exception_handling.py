@@ -16,7 +16,7 @@ print(type(students))
 with open("student.bin",'bw') as f:
     for student in students:
         pickle.dump(student, f)
-
+ 
 
 #Deserialization
 with open("students.bin", 'rb') as f:

@@ -17,7 +17,7 @@ def withdraw(amount):
 def check_balance():
     print("Balance:", balance)
 
-
+ 
 deposit(500)
 withdraw(200)
 check_balance()
