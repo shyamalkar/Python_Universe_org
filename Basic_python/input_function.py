@@ -8,7 +8,7 @@ print(name)
 age = input("Enter your age: ")
 
 print(age)
-print(type(age)) # always return as a string .
+print(type(age)) # always return as a string . 
 
 #Then how to work with string ?
 #With int() or float()  type conversion .
