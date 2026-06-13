@@ -19,3 +19,5 @@ age = 21
 print(age)
 print(age + 5)
 print(age * 2)
+
+# What was the first version of this idea 
