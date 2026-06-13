@@ -3,7 +3,7 @@
 print(type(True))
 print(type(False))
 
-# Why Boolean use for ?
+# Why Boolean usefor ?
 # We often use boolean for take Decision . 
 #E.g., 
 age = 20
