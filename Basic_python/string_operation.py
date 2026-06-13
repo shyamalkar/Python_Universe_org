@@ -29,6 +29,8 @@ print(text.replace("Java", "Python"))
 #find ()
 text = "Python"
 
+
+
 print(text.find("t"))
 
 #count()
