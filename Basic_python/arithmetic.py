@@ -5,7 +5,7 @@
 a = 10
 b = 6
 
-print(a + b) # addition
+print(a + b) # addition 
 print(a - b) # subtraction
 print(a * b) # Multiplication
 print(a / b) # division , # it's always return float number result, even if the  result is a whole number.
