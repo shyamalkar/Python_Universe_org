@@ -12,7 +12,7 @@ async    await    break
 class    continue def
 del      elif     else
 except   finally  for
-from     global   if
+from     global   if 
 import   in       is
 lambda   nonlocal not
 or       pass     raise
