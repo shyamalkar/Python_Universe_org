@@ -1,16 +1,15 @@
 import re 
 
 message = "Hello there i am a Python Deploper, and in this lecture i will tech you how to learn python programming language version 13.4.12, are you ready for learn this Python programming language."
+set_pattern = re.findall("[0-9].[0-9][0-9]", message) #[0-9].[0-9] means  start from 0-9 number then after dot then 0-9 inside this message variable .
 
-obj_re = re.findall("[0-9].[0-9][0-9]", message) #[0-9].[0-9] means  start from 0-9 number then after dot then 0-9 inside this message variable .
-
-print(obj_re)
+print(set_pattern)
 
 message_1 = "Hello there i am a Python Deploper, and in this lecture i will tech you how to learn python programming language version 13.4.12, are you ready for leqarn this Python programming language."
 
 obj_re_1 = re.findall("[0-9].[0-9].[0-9][0-9]", message_1) #[0-9].[0-9] means  start from 0-9 number then after dot then 0-9 inside this message variable .
 
-print(obj_re)
+print(set_pattern)
 
 # \b and \D -> \b matches 1 digit character, it is similar to [0-9]
 s1 = message_1 = "Hello there i am a Python Deploper, and in this lecture i will tech you how to learn python programming language version 13.4.12, are you ready for leqarn this Python programming language. shy12"
