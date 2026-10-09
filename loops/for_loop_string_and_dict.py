@@ -29,3 +29,4 @@ for value in student.values():
 # key and value both 
 for key, value in student.items():
     print("key and value both ",key, value) 
+    

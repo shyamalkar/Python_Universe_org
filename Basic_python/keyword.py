@@ -2,7 +2,8 @@ print("Hello \n Everyone")
 # What is keyword defination 
 """In Python, a keyword is a special reserved word that has a predefined meaning and purpose within the language syntax, they are special word"""
 
-# 'if' and 'else' are the keywords here another example is :- false, true, None, 
+"""' if' and 'else' are the keywords here another example is :- false, true, None, """
+
 age = 20
 
 if age >= 18:

@@ -12,3 +12,4 @@ age = 25
 """  
 # So generally literal is a value which you can write in a code.
 """
+

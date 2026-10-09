@@ -12,7 +12,7 @@ mark4 = 85
 mark5 = 70
 
 # With list 
-marks = [80, 75, 90, 85, 70]
+marks = [80, 75, 90, 85, 70] 
 
 # List are mutable , because list are mutable 
 nums = [1, 2, 3]
@@ -57,6 +57,7 @@ print("if you use minus 1 that means python always print last one.", fruits[-1])
 fruits = ["Apple", "Banana", "Mango"]
 
 fruits[1] = "Orange" # replace banana and add Orange.
+
 
 print(fruits)
 

@@ -12,7 +12,7 @@ test()
 # Global variable is nothing but where variable create outside of the function. 
 # global variable is write outside of the function 
 #e.g., 
-name = "Shyamal"   # Global Variable
+name = "Shyamal"   # Global Variable 
 
 def greet():
     print(name)

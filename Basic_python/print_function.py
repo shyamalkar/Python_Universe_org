@@ -6,7 +6,7 @@ print(23)
 
 # print most of the value in one print function.
 name = "Shyamal"
-age = 21
+age = 21 
  
 print(name , "Age is", str(age))
 

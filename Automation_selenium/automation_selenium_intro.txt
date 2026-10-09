@@ -1,1 +1,2 @@
+ Selenium automation (specifically using Python) is an open-source framework used to control and automate web browsers programmatically
  

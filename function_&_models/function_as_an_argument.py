@@ -10,3 +10,4 @@ def calculate(func, x, y):
 
 print(calculate(add, 5, 3)) # here add function send as argument. 
 
+

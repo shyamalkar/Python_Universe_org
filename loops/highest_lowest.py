@@ -12,7 +12,7 @@ print(highest)
 # Calculate the lowest 
 
 
-nums = [10, 50, 20, 90, 30]
+nums = [10, 50, 20, 90, 30] 
 
 lowest = nums[0]
 

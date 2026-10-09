@@ -5,7 +5,7 @@ print(name)
 # always remember input always return string .
 
 #E.g, 
-age = input("Enter your age: ")
+age = int(input("Enter your age: "))
 
 print(age)
 print(type(age)) # always return as a string . 
@@ -18,7 +18,7 @@ print("always give you more 5 age",age + 5) # Because here add + 5
 # Float input 
 
 price = float(input("Enter price: "))
-print(price * 2) 
+print("Multiply by 2",price * 2) 
 
 a = int(input("Enter your first number:"))
 b = int(input("Enter your second number:"))

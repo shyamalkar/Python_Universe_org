@@ -16,7 +16,7 @@ for key in student:
     print(key)
 
 # Only value 
-for value in student.values():
+for value in student.values(): 
     print(value)
 
 # key and value 

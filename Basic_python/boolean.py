@@ -38,6 +38,7 @@ print(5 != 5)   # False
 print(5 >= 5)   # True
 print(5 <= 4)   # False
 
+
 #Boolean Operator
 
 print("True and True =", True and True)    # True, 

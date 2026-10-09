@@ -1,0 +1,2 @@
+Flask is a lightweight and minimalist micro web framework written in Python.
+It is designed to make getting started with web development quick and easy, providing developers with the core tools needed to build web applications and APIs with total flexibility.

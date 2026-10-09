@@ -18,7 +18,7 @@ numbers(10, 20, 30, 40) # Output = 10, 20, 30, 40
 
 # What is **kwargs
 #It accepts named arguments (key=value).
-def student(**kwargs):
+def student(**kwargs): 
     print(kwargs)
 
 student(name="Shyamal", age=20)

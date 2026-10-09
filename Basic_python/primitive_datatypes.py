@@ -22,4 +22,3 @@ name = "Shyamal"   # str
 student = True     # bool 
 
 marks = [80, 90]   # list (non-primitive)
-

@@ -9,13 +9,14 @@ numbers = [10, 20, 30, 40, 50]
 print(sum(numbers))
 print(min(numbers))
 print(max(numbers))
+
 import math
 
 print("Math prod numbers",math.prod(numbers)) # prod help to multiply number with each others 
 
 nums = [4, 1, 5, 2] 
 
-print(sorted(nums)) # sorted use in different types like list, tuple, dictionary.
+print('sorted',sorted(nums)) # sorted use in different types like list, tuple, dictionary.
 
 
 nums = [3, 1, 2]

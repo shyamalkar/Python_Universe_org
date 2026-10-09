@@ -1,6 +1,6 @@
 Hello my name is Shyamal kar.
 
-In this repository i cover basic PostgreSQLdatabase . 
+In this Folder i gonna cover basic PostgreSQLdatabase . 
 
 Just stay with me and learn PostgreSQL 
 
@@ -13,9 +13,6 @@ What i cover in this repository:-
 
 
 Author:- 
-
-
-
 
 Shyamal kar
 exit()

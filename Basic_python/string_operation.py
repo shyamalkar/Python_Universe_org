@@ -13,7 +13,7 @@ print(name.title())  # output = Hello World , title() fun
 print(name.capitalize()) # output = Python programming
 
 #strip() help us to remove extra space last and first 
-text = "   Python   " 
+text = "   Python   "  
 print(text.strip())  
 
 #replace(), one place replace by another place.

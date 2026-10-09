@@ -29,3 +29,4 @@ else:
 """Is the person 18 or older ?
  If yes, do they have an ID ?
  If yes, Do they have a ticket ?""" # That is how a nested loop work and it is usefull.
+

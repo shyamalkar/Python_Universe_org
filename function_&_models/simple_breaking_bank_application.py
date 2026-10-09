@@ -8,7 +8,7 @@ def deposit(amount):
 def withdraw(amount):
     global balance
 
-    if amount <= balance:
+    if amount <= balance: 
         balance -= amount
         print("Withdrawn:", amount) 
     else:

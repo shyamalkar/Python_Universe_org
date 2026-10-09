@@ -19,3 +19,5 @@ name = "Shyamal"
 city = 'Kolkata'
 
 print("Word type",type(name))
+
+

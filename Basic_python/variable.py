@@ -22,3 +22,4 @@ print(age * 2)  # always multiply with variable number.
 print(age // 4) # always devided with variable number. 
 
 
+

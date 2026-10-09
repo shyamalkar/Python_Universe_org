@@ -26,7 +26,7 @@ print("% help us to measure the reminder.", a % b) # modulus (%) quotient, Quoti
 #       10
    #   ----
     #    0  # That's why the output is 0 
-print( a ** b) # Exponent use for multiply the oposite number . help of using double star. 
+print('Output should be :- ',a ** b) # Exponent use for multiply the oposite number . help of using double star. 
 
 # Why output is 100 ? Reson was 10 * 10 = 100 , because first number always multiply by second number , second number is 2 so that's why , double 10 . 
 

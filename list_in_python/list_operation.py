@@ -53,7 +53,7 @@ fruits = ["Apple", "Banana", "Mango"]
 
 fruits[1] = "Orange"
 
-print(fruits)
+print('Update element',fruits)
 
 # Adding element 
 nums = [1, 2]
@@ -67,7 +67,7 @@ nums = [1, 3]
 
 nums.insert(1, 2)
 
-print(nums)
+print('insert',nums)
 
 # extend(), it can add a list .
 a = [1, 2]
@@ -75,7 +75,7 @@ b = [3, 4]
 
 a.extend(b)
 
-print(a)
+print('extend',a)
 
 # removing element
 

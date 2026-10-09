@@ -8,8 +8,8 @@
 
 #Addition (A) & Subtraction (S): These are also on the same priority level. Solve them from left to right as well
 
-print(2 + 3 * 4)
 # 14 because * are  more precedence than +, so 3*4 = 12+2 = 14 
+print(2 + 3 * 4)
 
 #  e.g., 
 print(2 ** 3 ** 2) # According to PEMDAS , calculation always left to right, so calculation is = 2 ** (3 ** 2)= 2 ** 9 = 512 .

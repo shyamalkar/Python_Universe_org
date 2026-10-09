@@ -9,8 +9,8 @@ for i in range(1, 6):
 # break 
 # break function help us to break the loop while 3 comes then it stop count 
 for i in range(1, 6):
-    if i == 5:
-        break
+    if i == 5: # when 5 come then break the fuction 
+        break # break will help to run the function 
 
     print("Using break",i) 
 

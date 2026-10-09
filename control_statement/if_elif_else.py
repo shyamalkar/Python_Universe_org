@@ -14,4 +14,4 @@ elif marks >= 25:
     print("You passout with minimum number required is grather than 25.")
     
 else:
-    print("Fail in this exame")
+    print("Fail in this exame") 
