@@ -1,0 +1,21 @@
+What is OOPs ?
+Object Oriented Programming (OOP) is a programming paradigm (or programming style) where we organize our code using objects instead of writing everything as separate functions and variables.
+
+Why OOPs was invented ?
+Imagine a writing software for a University with 100000 student , without OOP, Your code become huge, repetitive, and difficult to manage.
+
+With OOP:
+
+Data is Organized, code can be reused, programs are easier to Understand, Bugs are easier to fix, large project become more easier to maintain.  That's why modern almost all software company use OOps 
+
+
+Where is OOP used ?
+
+Web application , mobile apps, desktop software, games, Baning system, Hospital management systems, AI and Machine learning libraries (Pytorch, Tensorflow, scikit learn)
+Robotics, Operating system, ecomerce platform. 
+
+# We gonna cover most important topics in OOps that is :- 
+Encapsulation: Bundling data and methods into a single unit (like a capsule) and hiding direct access.
+Inheritance: Allowing a new class to take properties from an older/parent class to avoid repeating code.
+Polymorphism: Allowing the same function or method to behave differently in different situations.
+Abstraction: Hiding complex background details and showing only the simple, essential features to the user.

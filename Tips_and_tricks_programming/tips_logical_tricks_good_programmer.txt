@@ -1,0 +1,58 @@
+ #  so i just write it down what are the steps you should learn for logical thinking and problem solving through coding .
+
+ concept, logic, syntax , basic, break problem into parts . 
+ create a flow chart what is the input and what is the output it would be . 
+ just like -> input -> process -> output . do practice on project .
+
+ 1. Understand the concept . 
+ 2. Learn the syntax 
+ 3. Build the logic
+ 4. break the problem  into small parts
+ 5. Think in IPO - Input -> process -> Output . 
+
+ Just like this =
+Input
+-------
+5
+
+Process
+-------
+5 × 5
+
+Output
+-------
+25
+
+# more 
+Start
+   ↓
+Input Number
+   ↓
+Is number % 2 == 0?
+      ↓
+  Yes      No
+   ↓        ↓
+Print     Print
+Even      Odd
+   ↓
+ End
+
+ # write the code 
+Only after you've planned the solution.
+
+Code should be the last step, not the first.
+
+# Test the code :- 
+trye with different inputs it help us to find any mistake makes or not . 
+
+# Debug the mistake 
+
+# Improve my soluation 
+
+1. can i make it shorter ?
+2. can i make it easier to read ?
+3. can i make it faster ?
+
+# Build Projects 
+
+# project actually help us to connect everything .
